@@ -1,4 +1,6 @@
 *
+!.AssemblyAttributes.cs
+!.AssemblyInfo.cs
 !.gitattributes
 !.gitignore
 !readme.md
